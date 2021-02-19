@@ -1,1 +1,1 @@
-#GUI description
+!GUI description
